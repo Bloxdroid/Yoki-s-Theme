@@ -1,0 +1,54 @@
+{
+    "manifest": {
+        "version": "1.1.1",
+        "name": "Yoki's theme",
+        "author": "♡ Yumei#5195"
+    },
+    "background": {
+        "overlay_alpha": 190,
+        "blur_radius": 1,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/852613717736554557\/952250254797991946\/wp9548479.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/852595075166502952\/952263673785761832\/ec_6k.ttf"
+    },
+    "simple_colors": {
+        "background": -14666729,
+        "background_secondary": -583247570,
+        "accent": -12058880,
+        "active_channel": -7816843,
+        "input_background": -583247570,
+        "mention_highlight": -12031432
+    },
+    "colors": {
+        "link": -13538992,
+        "primary_dark_660": -14334159,
+        "primary_dark_700": -14995678,
+        "primary_dark_800": -14995678,
+        "link_500": -9397669,
+        "primary_dark_300": -7817098,
+        "primary_dark_360": -7817098,
+        "primary_700": -198356679,
+        "primary_660": -9331621,
+        "uikit_btn_bg_color_selector_brand": -13538992,
+        "abc_tint_switch_track": -7946386,
+        "brand_new_360": -13670063,
+        "brand_new_560": -14995678,
+        "uikit_btn_bg_color_selector_green": -7817098,
+        "uikit_btn_bg_color_selector_red": -9595042,
+        "uikit_btn_compound_color_selector_dark": -7816843,
+        "uikit_btn_compound_color_selector_light": -9331621,
+        "uikit_settings_item_text_color_light": -14995678
+    },
+    "drawable_tints": {
+        "ic_thread": -14995678,
+        "ic_sidebar_search_24dp": -14995678,
+        "ic_sidebar_pins_on_dark_24dp": -14995678,
+        "ic_sidebar_notifications_on_dark_24dp": -14995678,
+        "ic_sidebar_notifications_off_dark_24dp": -14995678
+    },
+    "raws": {
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/852595075166502952\/952266512620748870\/Dwellers_Empty_Path_-_Officeish_Space_OST_07",
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/878107558760558632\/954116385619980438\/musica_de_atraco"
+    }
+}
